@@ -1,6 +1,3 @@
 # Visual Modeling Research on Keywords of National Natural Science Foundation of Double First-Class Universities Based on t-SNE Algorithm
 
-Abstract: [Purpose/meaning] Scientific research ability is an important goal of the construction of double first-class universities. The National Natural Science Foundation is an important embodiment of scientific research capabilities. A more intuitive analysis of research funds of double first-class universities will help build a dual-level university. management. [Method/Process] This paper uses the keyword data of the National Natural Science Foundation of China from 1998 to 2017 to pre-process the double first-class universities (class A), and then use the t-SNE algorithm in MATLAB to reduce the dimensionality of the results to visualize. [Results/Conclusions] Based on the time dimension and the unit dimension, we can see the distribution of key words in the past 20 years. The method of analysis and visual modeling in this paper is more intuitive than the traditional method based on structural analysis, which provides a reference for the strategic management of the construction of double first-class universities.
-
-Keywords: research fund; data mining; scientific and technological intelligence analysis; network visualization; t-SNE
 
