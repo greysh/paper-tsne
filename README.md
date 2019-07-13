@@ -1,3 +1,1 @@
-# Visual Modeling Research on Keywords of National Natural Science Foundation of Double First-Class Universities Based on t-SNE Algorithm
-
-
+# Research on Visual Modeling of National Natural Science Foundation of Double Firstclass Universities Based on t-SNE Dimension Reduction Algorithms
